@@ -1,0 +1,4 @@
+A: B TESTLIB
+B: C
+C:
+TESTLIB:
